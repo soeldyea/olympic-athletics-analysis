@@ -58,7 +58,7 @@
 - Jupyter Notebook — среда разработки
 - Git/GitHub — контроль версий
 
-## 📁 Структура репозитория
+## Структура репозитория
 ```
 ├── data/
 │ ├── athlete_events.csv # исходные данные
@@ -67,11 +67,12 @@
 ├── requirements.txt # зависимости
 ├── .gitignore # игнорируемые файлы
 └── README.md # описание проекта
+└── olympic_athletics_dashboard.twb # дашборд
 ```
 
-## дашборд (Tableau)
+## Дашборд (Tableau)
 https://github.com/soeldyea/olympic-athletics-analysis/blob/main/olympic_athletics_dashboard.twb
 
-## 📬 Contacts:
+## Contacts:
 - GitHub: [@soeldyea](https://github.com/soeldyea)
 - Email: sedelnikowaolia@yandex.ru
