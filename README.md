@@ -69,7 +69,8 @@
 └── README.md # описание проекта
 ```
 
-## Интерактивный дашборд (Tableau)
+## дашборд (Tableau)
+https://github.com/soeldyea/olympic-athletics-analysis/blob/main/olympic_athletics_dashboard.twb
 
 ## 📬 Contacts:
 - GitHub: [@soeldyea](https://github.com/soeldyea)
